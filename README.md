@@ -30,3 +30,4 @@ print ("hello world")
 ```
 # 
 ![resim](https://picsum.photos/200/300)
+![resim](C:\Users\ugurc\Desktop\test\github.png)
